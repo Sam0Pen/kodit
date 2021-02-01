@@ -1,0 +1,13 @@
+.label {
+    font-size: 34px;
+    color: black;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+
+}
+.title1 {width: 80%;}
+.title2 {width: 80%; text-align: left; padding: 2px 0px; color: gray; font-size: 16px;}
+.title3 {width: 25%;}

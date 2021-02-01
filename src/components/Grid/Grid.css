@@ -1,0 +1,15 @@
+.grid {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0px;
+
+}
+.pile {width: 100%; flex-direction: column;}
+.pile2 {width: 100%; flex-direction: column; align-items: center;}
+.pile3 {width: 150px; flex-direction: column;}
+.left {width: 50%; justify-content: left; align-content: left; flex-direction: row;}
+.right1 {width: 50%; justify-content: right; align-content: right; flex-direction: row-reverse;}
+.right {width: 100%; justify-content: right; align-content: right; flex-direction: row-reverse;}
+.border {flex-direction: row; width: 450px;}
+.back {width: 100%; align-content: center;}
+.chart {width: 65%; height: 50px;}
